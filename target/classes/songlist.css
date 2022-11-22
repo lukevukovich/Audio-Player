@@ -1,0 +1,7 @@
+.list-view {
+    -fx-selection-bar: grey;
+    -fx-selection-bar-non-focused: grey;
+}
+.list-cell:filled:selected {
+    -fx-text-fill: white;
+}
